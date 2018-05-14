@@ -1,0 +1,11 @@
+linha 1: abcde fghijk lmnopq rstuvw xyz :fim da linha 1
+linha 2: abcde fghijk lmnopq rstuvw xyz :fim da linha 2
+linha 3: abcde fghijk lmnopq rstuvw xyz :fim da linha 3
+linha 4: abcde fghijk lmnopq rstuvw xyz :fim da linha 4
+fimlinha
+palavra 1: abcde fghijk lmnopq rstuvw xyz :fim 1
+palavra 2: abcde fghijk lmnopq rstuvw xyz :fim 2
+fimpalavra
+1 2 3 4 5
+6 -1 1.0 2.3 4.5 -4 penultima linha
+linha final

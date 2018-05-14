@@ -1,0 +1,7 @@
+Programa Banco1
+	Abra uma conta de número 1 para João com CPF 309140605-06
+	Nesta conta, deposite R$1000,00
+	Imprima o saldo da conta de João
+	Saque R$300,00 desta conta
+	Imprima o saldo da conta de João
+

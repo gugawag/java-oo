@@ -1,0 +1,8 @@
+Programa Banco2
+	Abra uma conta de número 1 para João com CPF 309140605-06
+	Nesta conta, deposite R$1000,00
+	Abra uma conta de número 2 para Ana com CPF 123456789-01
+	Transfira R$400,00 da conta de João para a conta de Ana
+	Imprima o saldo da conta de João
+	Imprima o saldo da conta de Ana
+

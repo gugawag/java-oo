@@ -1,0 +1,4 @@
+faltam testes de tudo em Mancala
+falta gui
+falta console application (ver main de JogoGUI)
+

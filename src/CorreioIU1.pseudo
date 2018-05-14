@@ -1,0 +1,30 @@
+// interface com o usuário para um sisteminha de correio eletrônico
+public class CorreioIU1 {
+  private CaixaPostal caixa;
+
+  public CorreioIU1(String titular) {
+    // construtor para manipular a caixa postal de "titular"
+  }
+
+  public void interfaceComUsuário() {
+    loop de interpretação de comandos {
+      mostrar um resumo da caixa postal para o usuário
+      ler o comando
+      se comando for "exibir"
+        exibir a mensagem
+      se comando for "enviar"
+        obtem dados (destinatário, assunto, texto da mensagem)
+        criar uma nova mensagem com esses dados
+        armazenar a mensagem na caixa postal do destinatário
+      se comando for "excluir"
+        mandar excluir a mensagem corrente
+      se comando for "+"
+        avançar para a próxima mensagem
+      se comando for "-"
+        recuar para a mensagem anterior
+      se comando for "quit"
+        salvar a caixa postal se o usuário quiser e cair fora
+    }
+  }
+}
+
